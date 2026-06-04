@@ -16,26 +16,40 @@ meaningful insights that support better decision-making.
 I am currently focused on improving my software development skills through handson projects and expanding 
 my knowledge of modern development tools and data-driven technologies.
 
-<hr>
-
-<b>Skills</b>
 <br>
-Python : ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+##  Tech Stack
+
+### 🐍 Python & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B)
 
-Cloud : ![Static Badge](https://img.shields.io/badge/GCP-%23fa2855?style=flat-square&logo=google) ![Static Badge](https://img.shields.io/badge/AWS-%2348484a?style=flat-square&logo=aws) ![Static Badge](https://img.shields.io/badge/Hadoop-%23f76036?style=flat-square&logo=Apache%20Hadoop)
+### ☁️ Cloud & Big Data
 
-Databases : ![Static Badge](https://img.shields.io/badge/Mysql-%20%23053969?style=flat-square&logo=mysql) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23409df5?style=flat-square&logo=PostgreSQL) ![Static Badge](https://img.shields.io/badge/MongoDB-%2327c243?style=flat-square&logo=MongoDB)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
- Language & Tools : ![Static Badge](https://img.shields.io/badge/C%2B%2B-%20darkblue?style=flat-square&logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/Python%20-%20aqua?style=flat-square&logo=python) ![Static Badge](https://img.shields.io/badge/Github%20-%20red?style=flat-square&logo=github) ![Static Badge](https://img.shields.io/badge/Matlab-%20%48d7f7?style=flat-square)
- 
- <hr>
- 
- Connet With Me 🌐
- <br>
+### 🗄️ Databases
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-more-772b51368/) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-more-772b51368/) 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sujal_more_07)
