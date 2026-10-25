@@ -17,7 +17,7 @@ I am currently focused on improving my software development skills through hands
 my knowledge of modern development tools and data-driven technologies.
 
 <br>
-### **Tech Stack**
+<b> Tech Stack</b>
 
 ### 🐍 Python & Frameworks
 
